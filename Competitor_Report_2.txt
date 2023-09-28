@@ -1,0 +1,53 @@
+---------------------------------
+------------The report-----------
+---------------------------------
+
+-------------  Rift competitors ---------------
+N Pseudo  Name          Lvl Scores    Rank      OverallScore    
+9  UPSET   Jaimie Emma G 5   5.0, 4.0, Diamond 4.1 
+
+8  COMP    Romane Jane   4   3.0, 5.0, Gold    4.0 
+
+7  WUNDER  Tom Jonas Sti 4   4.0, 4.0, Platinu 3.7 
+
+1  CABOCHA John Thomas W 3   2.0, 4.0, Gold    3.3 
+
+6  TRYMBI  Ben Thomas Hu 2   1.0, 3.0, Diamond 2.5 
+
+5  HUMANOI Chris Peter E 2   3.0, 1.0, Silver  2.1 
+
+2  SAKEN   Bob Kevin Abr 1   2.0, 3.0, Bronze  2.3 
+
+
+Best of them:
+Competitor number 9 UPSET, real name Jaimie Emma Grainger
+Jaimie is a Diamond level 5 and received these scores : 5.0, 4.0, 5.0, 5.0, 3.0
+This gives them an overall score of 4.11
+
+-----------  Twisted competitors --------------
+N Pseudo  Name          Lvl Scores    Rank      OverallScore    
+3  LARSEN  Steve Brian A 5   5.0, 4.0, Master  4.5 
+
+8  COMP    Romane Jane   4   3.0, 5.0, Gold    4.2 
+
+4  CAPS    Paul Maxime C 3   3.0, 2.0, Diamond 2.5 
+
+1  CABOCHA John Thomas W 3   2.0, 4.0, Gold    3.1 
+
+
+Best of them:
+Competitor number 3 LARSEN, real name Steve Brian Adams
+Steve is a Master level 5 and received these scores : 5.0, 4.0, 4.0, 5.0
+This gives them an overall score of 4.5 
+
+-------------  ARAM competitors ---------------
+N Pseudo  Name          Lvl Scores    Rank      OverallScore    
+1  CABOCHA John Thomas W 3   4.0, 3.0, Gold    3.2 
+
+10 RULER   Xiang Lin     2   1.0, 3.0, Platinu 3.4 
+
+
+Best of them:
+Competitor number 1 CABOCHARD, real name John Thomas Wallace
+John is a Gold level 3 and received these scores : 4.0, 3.0, 3.0
+This gives them an overall score of 3.2 
